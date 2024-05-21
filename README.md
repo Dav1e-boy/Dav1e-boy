@@ -5,7 +5,7 @@ Hi 👋 My name is Peter Acton
 Student looking to learn
 ------------------------
 
-I'm Peter. A student developer who mainly tries to make 3rd party game applications. Pretty interested in some front & back end development for any small projects. Unreal engine seems to be something I will attempt in the near future as well. Haven't committed anything as all my code is a absolute mess.
+I'm Peter. A student developer who mainly tries to make 3rd party game applications. Pretty interested in some front & back end development for any small projects. Unreal engine seems to be something I will attempt in the near future as well.
 
 * 🌍  I'm based in Scotland
 * ✉️  You can contact me at [actonpeter@proton.me](mailto:actonpeter@proton.me)
