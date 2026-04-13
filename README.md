@@ -5,9 +5,9 @@ Hi 👋 My name is Peter Acton
 Student looking to learn
 ------------------------
 
-I’m Peter, a student developer who started out building 3rd-party game applications and small front/back-end projects. Recently, I’ve been expanding into business automations and dashboards — helping small teams and e-commerce owners save time by connecting their tools and centralising their data.
+I’m Peter
 
-I’m still interested in exploring Unreal Engine in the near future, but right now my focus is on combining software development skills with automation tools like Zapier, Make, and Google Data Studio to create efficient, real-world solutions.
+I’m still interested in exploring Unreal Engine in the near future, but right now my focus is on Univeristy
 
 * 🌍  I'm based in Scotland
 * ✉️  You can contact me at [actonpeter@proton.me](mailto:actonpeter@proton.me)
